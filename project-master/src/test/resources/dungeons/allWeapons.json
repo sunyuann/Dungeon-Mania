@@ -1,0 +1,119 @@
+{
+    "entities": [
+        {
+            "x": 0,
+            "y": 0,
+            "type": "player"
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "type": "armour"
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "type": "sword"
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "type": "anduril"
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "type": "wood"
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "type": "arrow"
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "type": "arrow"
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "type": "arrow"
+        },
+        {
+            "x": 0,
+            "y": 8,
+            "type": "wood"
+        },
+        {
+            "x": 0,
+            "y": 9,
+            "type": "wood"
+        },
+        {
+            "x": 0,
+            "y": 10,
+            "type": "treasure"
+        },
+        {
+            "x": 0,
+            "y": 11,
+            "type": "armour"
+        },
+        {
+            "x": 0,
+            "y": 12,
+            "type": "sun_stone"
+        },
+        {
+            "x": 0,
+            "y": 13,
+            "type": "arrow"
+        },
+        {
+            "x": 0,
+            "y": 14,
+            "type": "arrow"
+        },
+        {
+            "x": 0,
+            "y": 15,
+            "type": "arrow"
+        },
+        {
+            "x": 0,
+            "y": 16,
+            "type": "arrow"
+        },
+        {
+            "x": 0,
+            "y": 17,
+            "type": "arrow"
+        },
+        {
+            "x": 0,
+            "y": 18,
+            "type": "arrow"
+        },
+        {
+            "x": 0,
+            "y": 19,
+            "type": "arrow"
+        },
+        {
+            "x": 0,
+            "y": 20,
+            "type": "arrow"
+        },
+        {
+            "x": 0,
+            "y": 21,
+            "type": "arrow"
+        },
+        {
+            "x": 0,
+            "y": 22,
+            "type": "arrow"
+        }
+    ]
+}

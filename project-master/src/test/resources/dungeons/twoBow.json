@@ -1,0 +1,79 @@
+{
+    "entities": [
+        {
+            "x": 0,
+            "y": 0,
+            "type": "player"
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "type": "wood"
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "type": "arrow"
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "type": "arrow"
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "type": "arrow"
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "type": "arrow"
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "type": "wood"
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "type": "arrow"
+        },
+        {
+            "x": 0,
+            "y": 8,
+            "type": "arrow"
+        },
+        {
+            "x": 0,
+            "y": 9,
+            "type": "arrow"
+        },
+        {
+            "x": 0,
+            "y": 10,
+            "type": "arrow"
+        },
+        {
+            "x": 0,
+            "y": 11,
+            "type": "arrow"
+        },
+        {
+            "x": 0,
+            "y": 12,
+            "type": "arrow"
+        },
+        {
+            "x": 0,
+            "y": 13,
+            "type": "arrow"
+        },
+        {
+            "x": 0,
+            "y": 14,
+            "type": "arrow"
+        }
+    ]
+}

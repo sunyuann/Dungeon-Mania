@@ -1,0 +1,70 @@
+{
+    "entities": [
+        {
+            "x": 0,
+            "y": 0,
+            "type": "player"
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "type": "armour"
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "type": "wood"
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "type": "wood"
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "type": "sword"
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "type": "arrow"
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "type": "arrow"
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "type": "arrow"
+        },
+        {
+            "x": 0,
+            "y": 8,
+            "type": "arrow"
+        },  
+        {
+            "x": 0,
+            "y": 9,
+            "type": "arrow"
+        },
+        {
+            "x": 0,
+            "y": 10,
+            "type": "treasure"
+        },
+        {
+            "x": 0,
+            "y": 11,
+            "type": "wood"
+        },
+        
+        {
+            "x": 0,
+            "y": 12,
+            "type": "zombie_toast_spawner"
+        }
+    ]
+}

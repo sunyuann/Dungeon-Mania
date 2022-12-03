@@ -1,0 +1,75 @@
+{
+    "entities": [
+        {
+            "x": 0,
+            "y": 0,
+            "type": "player"
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "type": "armour"
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "type": "arrow"
+        }, 
+        {
+            "x": 0,
+            "y": 3,
+            "type": "bomb"
+        }, 
+        {
+            "x": 0,
+            "y": 4,
+            "type": "health_potion"
+        }, 
+        {
+            "x": 0,
+            "y": 5,
+            "type": "invincibility_potion"
+        }, 
+        {
+            "x": 0,
+            "y": 6,
+            "type": "invisibility_potion"
+        }, 
+        {
+            "x": 0,
+            "y": 7,
+            "type": "key",
+            "key": 1
+        }, 
+        {
+            "x": 0,
+            "y": 8,
+            "type": "sword"
+        }, 
+        {
+            "x": 0,
+            "y": 9,
+            "type": "treasure"
+        }, 
+        {
+            "x": 0,
+            "y": 10,
+            "type": "wood"
+        },
+        {
+            "x": 0,
+            "y": 11,
+            "type": "one_ring"
+        },
+        {
+            "x": 0,
+            "y": 12,
+            "type": "sun_stone"
+        },
+        {
+            "x": 0,
+            "y": 13,
+            "type": "anduril"
+        }
+    ]
+}

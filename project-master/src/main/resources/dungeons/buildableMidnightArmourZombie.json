@@ -1,0 +1,25 @@
+{
+    "entities": [
+        {
+            "x": 40,
+            "y": 30,
+            "type": "zombie_toast_spawner"
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "type": "armour",
+            "key": 1
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "type": "sun_stone"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "type": "player"
+        }
+    ]
+}
